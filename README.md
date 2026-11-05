@@ -78,8 +78,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ArsenAvanesyan&theme=dark&hide_border=true&background=0D1117"/>
-    <img src="https://streak-stats.demolab.com?user=ArsenAvanesyan&hide_border=true" alt="GitHub streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ArsenAvanesyan&v=2&theme=dark&hide_border=true&background=0D1117"/>
+    <img src="https://streak-stats.demolab.com?user=ArsenAvanesyan&v=2&hide_border=true" alt="GitHub streak"/>
   </picture>
 </div>
 
