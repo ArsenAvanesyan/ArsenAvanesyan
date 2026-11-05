@@ -65,7 +65,8 @@
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="44"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=vitest" title="Vitest" alt="Vitest" width="44"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" alt="Grafana" width="44"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=tauri" title="Tauri" alt="Tauri" width="44"/>
+<img src="https://skillicons.dev/icons?i=tauri" title="Tauri" alt="Tauri" width="44"/>&nbsp;
+<img src="./assets/claude.svg" title="Claude / Claude Code" alt="Claude" width="44"/>
 
 <br>
 
