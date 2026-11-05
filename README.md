@@ -84,7 +84,5 @@
 <div id="header" align="center">
   <img src="./assets/claude-code-laptop.svg" width="440" alt="Claude Code coding on a laptop"/>
 </div>
-    <br><br>
-    ════ ⋆★⋆ ════
   </p>
 </samp>
