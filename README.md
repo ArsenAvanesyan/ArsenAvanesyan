@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=ArsenAvanesyan&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<div id="header" align="center">
-  <img src="./assets/claude-code-laptop.svg" width="440" alt="Claude Code coding on a laptop"/>
-</div>
-
 <div id="badges" align="center">
   <h3>
     <samp>&gt; Hey there!
@@ -85,10 +81,9 @@
 
 <samp>
   <p align="center">
-    <br>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="Coding"/>
-    <br>
-    "Happy coding 👨🏻‍💻"
+<div id="header" align="center">
+  <img src="./assets/claude-code-laptop.svg" width="440" alt="Claude Code coding on a laptop"/>
+</div>
     <br><br>
     ════ ⋆★⋆ ════
   </p>
