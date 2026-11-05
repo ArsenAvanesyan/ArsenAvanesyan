@@ -3,7 +3,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" alt="Coding"/>
+  <img src="./assets/claude-code-laptop.svg" width="440" alt="Claude Code coding on a laptop"/>
 </div>
 
 <div id="badges" align="center">
